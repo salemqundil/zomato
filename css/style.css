@@ -1,0 +1,11 @@
+header{
+    background-image: url('../images/1.png');
+    background-size: cover;
+    height: 550px;
+    width: 100%;
+    font-family: Okra, Helvetica, sans-serif;
+}
+
+.app_sec{
+    background-color: #FFFBF7;
+}
